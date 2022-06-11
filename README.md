@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## this is just a simple registeration page with react
+## register your name and email!
+
+## instructions are listed below, please follow the guide
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:

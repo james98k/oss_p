@@ -1,0 +1,19 @@
+.quill-container{
+    width : 800px;
+    height :1000px;
+    border : solid red;
+
+}
+
+.user-wrapper{
+    
+    display : flex;
+    justify-content: center;
+
+
+    width : 800px;
+    height : 200px;
+
+    margin : 0 auto;
+    /* border : solid red; */
+}
